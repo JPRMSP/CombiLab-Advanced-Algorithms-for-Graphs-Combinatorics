@@ -1,0 +1,6 @@
+streamlit
+networkx
+numpy
+sympy
+pyngrok
+pydot
